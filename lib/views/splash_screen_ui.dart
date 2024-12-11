@@ -66,7 +66,7 @@ class _SplashscreenUIState extends State<SplashscreenUI> {
             left: 0,
             right: 0,
             child: Text(
-              'Created by 6419410039\nDTI-SAU',
+              'Created by 6419410006\nDTI-SAU',
               textAlign: TextAlign.center,
               style: GoogleFonts.kanit(
                 textStyle: TextStyle(
